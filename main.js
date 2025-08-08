@@ -20,7 +20,7 @@ button.addEventListener("click", function () {
         body.style.backgroundColor = "black"
         gambar2.style.display = "block"
         // gambar2.style.position = "relative"
-        gambar2.style.left = "30px"
+        gambar2.style.left = "75px"
         gambar1.style.display = "none"
         button.style.boxShadow = "2px 2px 5px white "
         button.style.backgroundColor = "white"
