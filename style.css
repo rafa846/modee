@@ -1,0 +1,37 @@
+body {
+    overflow:hidden;
+}
+.full {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh
+
+}
+
+.container-button {
+    background-color: rgb(0, 0, 0);
+    box-shadow: 2px 2px 5px black;
+    border-radius: 25px;
+    width:50px;
+    height:20px;
+    display:flex;
+    justify-content: start;
+}
+.container-button img {
+    width:20px;
+    height:20px;
+    object-fit:cover;
+    position: relative;
+}
+
+/* .container-button:hover {
+    background-color: rgb(0, 0, 0);
+    box-shadow: 2px 2px 5px black;
+    border-radius: 25px;
+    width:50px;
+    height:20px;
+    display:flex;
+    justify-content: end;
+} */
+
